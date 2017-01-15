@@ -2,7 +2,6 @@ package br.com.drogaria.domain;
 
 public class Produto {
 
-	/* usar Long e Double int inicia com zero e prejudica validacao */
 
 	private Long codigo;
 	private String descricao;
@@ -72,6 +71,6 @@ public class Produto {
 
 	public void setFabricante(Fabricante fabricante) {
 		this.fabricante = fabricante;
-	}
+	}	
 
 }
