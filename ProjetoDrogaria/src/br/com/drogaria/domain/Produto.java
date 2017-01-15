@@ -9,6 +9,9 @@ public class Produto {
 	private Double preco;
 
 	/*
+	 * 
+	 * dev
+	 * 
 	 * chave estrangeira nao pode ser int usar composicao de objeto produto =
 	 * caixa grande, tenho codigo, descr, qtd, e preço dentro dessa caixa
 	 * grande, caixa menor, codigo do fabricante e descricao chave estrangeira
