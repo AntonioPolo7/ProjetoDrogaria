@@ -24,11 +24,12 @@ public class Produto {
 	 * importante no JSF listar em uma tabela o resultado da consulta (no
 	 * primefaces a tabela só aceita 1 tipo de objeto, ou composicao)
 	 * 
-	 * Fabricante = classe criada em outro arquivo anterior
+	 * Tipo Fabricante usado abaixo = classe Fabricante criada anterior
 	 * 
 	 * 
 	 */
 
+	
 	private Fabricante fabricante;  /* 1 produto tem 1 fabricante nesta composicao estudar 1 para n */ 
 
 	/* GETTERS AND SETTERS */
